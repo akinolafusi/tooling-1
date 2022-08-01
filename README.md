@@ -71,4 +71,4 @@ Default web root:
 /usr/share/nginx/html
 ```
 
-## If you require permissions to GCP, or Gitlab resources, contact dare@propitix.com
+## If you need permissions to GCP, or Gitlab resources, contact dare@propitix.com
